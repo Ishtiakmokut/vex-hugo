@@ -32,9 +32,9 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
-  - title: ''
-    icon: ''
-    content: ''
+  - title: Less Drama
+    icon: tf-ion-android-film
+    content: Drama is best suitable in cineplex, not in life.
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
