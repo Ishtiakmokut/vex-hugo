@@ -17,7 +17,7 @@ features:
   image: images/watch-2.png
   left_side:
   - title: No Flag
-    icon: tf-ion-android-map
+    icon: tf-ion-android-globe
     content: Flags are bad. We represent the world.
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
@@ -32,6 +32,9 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
+  - title: ''
+    icon: ''
+    content: ''
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
