@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "/"
+baseurl = "ecommerce101.netlify.app/"
 title = "Vex | hugo landing page template"
 theme = "vex-hugo"
 # post excert
