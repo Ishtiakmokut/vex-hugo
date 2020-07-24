@@ -16,6 +16,9 @@ features:
   title: Our Key Features
   image: images/watch-2.png
   left_side:
+  - title: No Flag
+    icon: tf-ion-ios-alarm-outline
+    content: Flags are bad. We represent the world.
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
